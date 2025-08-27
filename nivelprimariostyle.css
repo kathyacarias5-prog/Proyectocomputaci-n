@@ -1,0 +1,24 @@
+H1{
+    text-align: center;
+    color: rgb(118, 192, 44);
+}
+header{
+    text-align: center;
+    background-color: bisque;
+    padding: 16px;
+}
+#Nivelprimario{
+    background-color: rgb(218, 255, 184);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#Gradosdeprimaria{
+    background-color: antiquewhite;
+    padding: 8px;
+    border: 1px solid;
+}
+#PensumoMaterias{
+    background-color: rgb(161, 206, 123);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}

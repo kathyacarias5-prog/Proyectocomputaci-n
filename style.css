@@ -1,0 +1,45 @@
+H1{
+    text-align: center;
+    color: rgb(118, 192, 44);
+}
+header{
+    text-align: center;
+    background-color: bisque;
+    padding: 16px;
+}
+#Quiénessomos{
+    background-color: rgb(255, 249, 241);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#Misión{
+    background-color: rgb(222, 255, 184);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#Visión{
+    text-align: center;
+    background-color:rgb(255, 237, 215);
+    padding: 5px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#Nivelpre-primario{
+    background-color: rgb(221, 253, 184);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#Nivelprimario{
+    background-color: rgb(255, 237, 215);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#Nivelbásico{
+     background-color: rgb(221, 253, 184);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#Niveldediversificado{
+     background-color: rgb(255, 237, 215);
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+}
